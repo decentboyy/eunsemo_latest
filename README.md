@@ -15,6 +15,10 @@
 
 ---
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/eunsemo_latest)
+
+---
+
 ### 🌟 Features
 
 - 🎵 **Multiple Sources:** Play music from various platforms.
